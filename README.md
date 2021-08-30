@@ -15,5 +15,6 @@
 ###### ** In Postman for post request you can send data and modify using raw json option in body section
 ###### ** You may also have to create user, market and cmdty first to make reports (additional optimization)
 ###### ** Output expected is same as given in problem statement
+https://www.getpostman.com/collections/7dd59908f75c6cfd139e
 
 And, Thanks for the opportunity!
